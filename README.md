@@ -1,8 +1,12 @@
 # Projeto after-course.
-Segue mais info...
+Seguem mais info...
 
 # Comandos utilizados na configuração
-Segue os comandos...
+Seguem os comandos...
 
 # Outros comandos
-Segue os comandos para este topico.
+Seguem os comandos para este topico.
+
+# Instalação dos componentes
+
+Seguem os componentes necessários para instalação

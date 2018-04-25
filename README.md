@@ -1,1 +1,3 @@
-# after-course
+# Projeto after-course conterá todos os arquivos de labs relacionandos ao Kuberntes e Pods criado no mesmo.
+Segue mais info...
+

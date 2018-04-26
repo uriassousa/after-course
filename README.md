@@ -8,5 +8,4 @@ Seguem os comandos...
 Seguem os comandos para este topico.
 
 # Instalação dos componentes
-
 Seguem os componentes necessários para instalação
